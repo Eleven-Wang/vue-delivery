@@ -1,0 +1,264 @@
+{
+	"goods": [
+		{
+			"name": "折扣",
+			"icon": "https://fuss10.elemecdn.com/0/6a/05b267f338acfeb8bd682d16e836dpng.png",
+			"foods": [
+				{
+					"name": "南瓜粥",
+					"icon": "http://fuss10.elemecdn.com/8/a6/453f65f16b1391942af11511b7a90jpeg.jpeg?imageView2/1/w/114/h/114",
+					"price": 10,
+					"oldPrice": 12,
+					"sellCount": 200,
+					"rating": 98,
+					"description": "甜甜的粥"
+				},
+				{
+					"name": "红枣山药粥",
+					"icon": "http://fuss10.elemecdn.com/6/72/cb844f0bb60c502c6d5c05e0bddf5jpeg.jpeg?imageView2/1/w/114/h/114",
+					"price": 11,
+					"oldPrice": 12,
+					"sellCount": 220,
+					"rating": 94,
+					"description": "甜粥"
+				}
+			]
+		},
+		{
+			"name": "甜粥",
+			"icon": "https://fuss10.elemecdn.com/b/91/8cf4f67e0e8223931cd595dc932fepng.png",
+			"foods": [
+				{
+					"name": "红豆薏米粥",
+					"icon": "http://fuss10.elemecdn.com/d/22/260bd78ee6ac6051136c5447fe307jpeg.jpeg?imageView2/1/w/114/h/114",
+					"price": 10,
+					"oldPrice": 12,
+					"sellCount": 200,
+					"rating": 98,
+					"description": "甜甜的粥"
+				},
+				{
+					"name": "红枣山药粥",
+					"icon": "http://fuss10.elemecdn.com/d/22/260bd78ee6ac6051136c5447fe307jpeg.jpeg?imageView2/1/w/114/h/114",
+					"price": 11,
+					"oldPrice": 12,
+					"sellCount": 220,
+					"rating": 94,
+					"description": "甜粥"
+				},
+				{
+					"name": "南瓜粥",
+					"icon": "http://fuss10.elemecdn.com/8/a6/453f65f16b1391942af11511b7a90jpeg.jpeg?imageView2/1/w/114/h/114",
+					"price": 10,
+					"oldPrice": 12,
+					"sellCount": 200,
+					"rating": 98,
+					"description": "甜甜的粥"
+				},
+				{
+					"name": "红枣山药粥",
+					"icon": "http://fuss10.elemecdn.com/6/72/cb844f0bb60c502c6d5c05e0bddf5jpeg.jpeg?imageView2/1/w/114/h/114",
+					"price": 11,
+					"oldPrice": 12,
+					"sellCount": 220,
+					"rating": 94,
+					"description": "甜粥"
+				}
+			]
+		},
+		{
+			"name": "小吃",
+			"icon": "https://fuss10.elemecdn.com/b/91/8cf4f67e0e8223931cd595dc932fepng.png",
+			"foods": [
+				{
+					"name": "红豆薏米粥",
+					"icon": "http://fuss10.elemecdn.com/d/22/260bd78ee6ac6051136c5447fe307jpeg.jpeg?imageView2/1/w/114/h/114",
+					"price": 10,
+					"oldPrice": 12,
+					"sellCount": 200,
+					"rating": 98,
+					"description": "甜甜的粥"
+				},
+				{
+					"name": "红枣山药粥",
+					"icon": "http://fuss10.elemecdn.com/d/22/260bd78ee6ac6051136c5447fe307jpeg.jpeg?imageView2/1/w/114/h/114",
+					"price": 11,
+					"oldPrice": 12,
+					"sellCount": 220,
+					"rating": 94,
+					"description": "甜粥"
+				},
+				{
+					"name": "南瓜粥",
+					"icon": "http://fuss10.elemecdn.com/8/a6/453f65f16b1391942af11511b7a90jpeg.jpeg?imageView2/1/w/114/h/114",
+					"price": 10,
+					"oldPrice": 12,
+					"sellCount": 200,
+					"rating": 98,
+					"description": "甜甜的粥"
+				},
+				{
+					"name": "红枣山药粥",
+					"icon": "http://fuss10.elemecdn.com/6/72/cb844f0bb60c502c6d5c05e0bddf5jpeg.jpeg?imageView2/1/w/114/h/114",
+					"price": 11,
+					"oldPrice": 12,
+					"sellCount": 220,
+					"rating": 94,
+					"description": "甜粥"
+				}
+			]
+		}
+	],
+	"ratings": [
+		{
+			"username": "aa",
+			"avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+			"score": 3.2,
+			"deliveryTime": "30分钟",
+			"text": "口味一般般",
+			"rateType": 1,
+			"recommend": [
+				"南瓜粥",
+				"皮蛋瘦肉粥",
+				"扁豆焖面"
+			],
+			"rateTime": "2019-07-23 21:52:44"
+		},
+		{
+			"username": "ba",
+			"avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+			"score": 4.4,
+			"deliveryTime": "28分钟",
+			"text": "口味一般般",
+			"rateType": 0,
+			"recommend": [
+				"南瓜粥",
+				"皮蛋瘦肉粥",
+				"扁豆焖面"
+			],
+			"rateTime": "2019-07-23 21:52:44"
+		},
+		{
+			"username": "ca",
+			"avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+			"score": 4.2,
+			"deliveryTime": "40分钟",
+			"text": "口味一般般",
+			"rateType": 0,
+			"recommend": [
+				"南瓜粥",
+				"扁豆焖面"
+			],
+			"rateTime": "2019-07-23 21:52:44"
+		}
+	],
+	"info": {
+		"name": "好吃的店",
+		"address": "你家旁边",
+		"id": 3313,
+		"intro": "很好吃的一家店，来吃吃看",
+		"latitude": 34.126347,
+		"longitude": 108.937934,
+		"location": [
+			114.345679,
+			30.607684
+		],
+		"phone": "1345432222",
+		"category": "果蔬生鲜/海鲜水产",
+		"supports": [
+			{
+				"description": "已加入“外卖保”计划，食品安全有保障",
+				"icon_color": "999999",
+				"icon_name": "保",
+				"id": 7,
+				"name": "外卖保",
+				"_id": "5c00f5aad51a913e8655f098"
+			},
+			{
+				"description": "准时必达，超时秒赔",
+				"icon_color": "57A9FF",
+				"icon_name": "准",
+				"id": 9,
+				"name": "准时达",
+				"_id": "5c00f5aad51a913e8655f097"
+			},
+			{
+				"description": "该商家支持开发票，请在下单时填写好发票抬头",
+				"icon_color": "999999",
+				"icon_name": "票",
+				"id": 4,
+				"name": "开发票",
+				"_id": "5c00f5aad51a913e8655f096"
+			}
+		],
+		"status": 0,
+		"recent_order_num": 669,
+		"rating_count": 304,
+		"rating": 4.8,
+		"rankRate": 99,
+		"serviceScore": 4.7,
+		"foodScore": 4.5,
+		"promotion_info": "123",
+		"piecewise_agent_fee": {
+			"tips": "配送费约¥5"
+		},
+		"opening_hours": [
+			"06:15-22:30"
+		],
+		"license": {
+			"catering_service_license_image": "",
+			"business_license_image": ""
+		},
+		"is_new": true,
+		"is_premium": false,
+		"image_path": "16ded746e2156898.png",
+		"identification": {
+			"registered_number": "",
+			"registered_address": "",
+			"operation_period": "",
+			"licenses_scope": "",
+			"licenses_number": "",
+			"licenses_date": "",
+			"legal_person": "",
+			"identificate_date": null,
+			"identificate_agency": "",
+			"company_name": ""
+		},
+		"float_minimum_order_amount": 20,
+		"float_delivery_fee": 5,
+		"distance": "1098.5公里",
+		"deliveryTime": 30,
+		"order_lead_time": "11小时47分钟",
+		"description": "硅谷专送",
+		"delivery_mode": {
+			"color": "57A9FF",
+			"id": 1,
+			"is_solid": true,
+			"text": "蜂鸟专送"
+		},
+		"pics": [
+			"https://fuss10.elemecdn.com/f/7f/d1422ec824a0a9d1fb879c57ab533jpeg.jpeg",
+			"https://fuss10.elemecdn.com/f/7f/d1422ec824a0a9d1fb879c57ab533jpeg.jpeg",
+			"https://fuss10.elemecdn.com/f/7f/d1422ec824a0a9d1fb879c57ab533jpeg.jpeg"
+		],
+		"activities": [
+			{
+				"icon_name": "减",
+				"name": "满减优惠",
+				"description": "满30减5，满60减8",
+				"icon_color": "orange",
+				"id": 1,
+				"_id": "5c00f5aad51a913e8655f09a"
+			},
+			{
+				"icon_name": "特",
+				"name": "优惠大酬宾",
+				"description": "123",
+				"icon_color": "red",
+				"id": 2,
+				"_id": "5c00f5aad51a913e8655f099"
+			}
+		],
+		"__v": 0
+	}
+}
